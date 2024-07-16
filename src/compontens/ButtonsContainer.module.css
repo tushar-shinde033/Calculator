@@ -1,0 +1,26 @@
+.ButtonsContainer{
+    display: flex;
+    justify-content: center;
+  }
+  .button{
+    width: 65px;
+    height: 65px;
+    margin: 6px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    font-size: 22px;
+    color:  white;
+    font-weight: bold;
+    background-color:goldenrod;
+
+  }
+  .btnContainer{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    padding: 5px 40px 5px 40px;
+    
+  }
